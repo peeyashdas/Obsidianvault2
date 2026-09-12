@@ -1,0 +1,7 @@
+### Disease , Resistance, and Indians Colonial Frontier 1770-1947
+
+Arnold cites the report by Major W.H Kendrick of the Indian Medical Services, which provided a detailed account of malaria. In this report, Kendrick observes that the immunity of the ‘dark skinned aborigines’ or the natives in the Central Provinces, protected them from serious infections, however, they continued to be carriers of the virus, affecting the more vulnerable groups , that were, ‘fair-skinned-non-aborigine’ and ‘outsiders’ He further adds that this hyper - endemic tract has thus de accelerated the colonisation of the Backward tracts. Pg. 153
+
+This is a chain of studies that I wish to pick up and investigate in the population study in Delhi. If Kendrick’s observation were true, then it must be that there was a graded tolerance to the malarial infection among the South Asian population in comparison to the White population. 
+
+In the section on malaria, David Arnolds article uses the concept of the ecological frontier as a resistance that the colonial administration had to tackle before they could subjugate the population of the tribal areas of the Central Provinces, however, time and again, they faced threat from biological / pathological enemies that seem to have sided with the tribals. 

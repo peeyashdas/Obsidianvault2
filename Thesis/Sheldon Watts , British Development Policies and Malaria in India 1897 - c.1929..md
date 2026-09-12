@@ -1,0 +1,7 @@
+- Relation between British developmental project and disease history 
+- i.e british funded irrigation project and the high rates of malaria 
+- British attitude towards malaria after discovery by Ross and Bux
+- Watts suggests that the life expectancy of the British male increased in comparison to that of the Indian male, however, does not give a clear population demographic of Indian male, and if it included only Indian natives or the White settlers.
+- according to Watts, the British brought in anti - malaria incentives to project the image of the benevolent aid - however, it should be evaluated if their was no pressure from thewhite settles in india, to do something about the malaria - where are the stories of the whites who fell sick due to their own policies - were they immune to malaria - if so, then why
+- There are many sources that can be referred to gauge insight into the health conditions of people in India - Parliamentary Papers, unpublished commission reports, medical journals printed in London, Edinburg or India, 
+-  In the years before the First World War, the government  information system virtually ignored the link between labour  migration from malaria-endemic areas where irrigated lands were  undergoing depopulation (as was common in western Bengal) to  new areas being brought under irrigation, such as the Punjab. In  endemic long-settled regions, most adults carried infected gametocytes of vivax or falciparum malaria in their blood. 
