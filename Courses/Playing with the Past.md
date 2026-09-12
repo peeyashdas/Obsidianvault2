@@ -14,8 +14,8 @@ Workshop to pick up different analytical tool to analyse the game
 Why games?
 - Interactive model 
 - Popular history
-- Study of historical reception
-- Digital competence (procedural literacy)
+- Study of historical reception.
+- Digital competence (procedural literacy).
 
 - 90 minute seminar
 - Read and play before each seminar
