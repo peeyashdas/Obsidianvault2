@@ -79,16 +79,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Saguna - Krupabai Satthianadhan.md",
+                "file": "Courses/Sonic Regimes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Saguna - Krupabai Satthianadhan"
+              "title": "Sonic Regimes"
+            }
+          },
+          {
+            "id": "f7a3592e86ee3d00",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "649749.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "649749"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -247,10 +259,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9f5e6a422536a28",
+  "active": "f7a3592e86ee3d00",
   "lastOpenFiles": [
-    "Courses/Playing with the Past.md",
+    "Sonic Regimes 2026.pdf",
+    "Listening, Reception, ‘structures of feeling’ of a new medium.md",
+    "649749.pdf",
+    "Courses/Sonic Regimes.md",
     "Courses/Saguna - Krupabai Satthianadhan.md",
+    "Courses/Playing with the Past.md",
     "2026-09-12.md",
     "Untitled.canvas",
     "Courses/Global Environmental History.md",
@@ -267,7 +283,6 @@
     "Thesis/Literature Review.md",
     "Thesis/Guide to Literature Review.pdf",
     "Thesis/David Arnold.md",
-    "Courses/Sonic Regimes.md",
     "History of History",
     "Courses",
     "Lectures and Talks",
@@ -279,13 +294,10 @@
     "Academic Writing Course.md",
     "Conversion Narratives/Trauma Theory.md",
     "Conversion Narratives/Krupabai Satthianadhan.md",
-    "The rise of the sourdough bread.md",
     "IMG_0228.jpeg",
     "IMG_0228.png",
     "Presentation _ Transcript 1.docx",
     "So this isn't German. Yeah, but you can choose at the beginning when… 1.pdf",
-    "Presentation _ Transcript.docx",
-    "So this isn't German. Yeah, but you can choose at the beginning when….pdf",
-    "Conversion Narratives"
+    "Presentation _ Transcript.docx"
   ]
 }
