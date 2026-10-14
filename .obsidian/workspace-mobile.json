@@ -4,103 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "74de895078f31a99",
+        "id": "9d1cd80c2b057aa3",
         "type": "tabs",
         "children": [
           {
-            "id": "00ac1d316996b584",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "978824f69f4a8965",
+            "id": "2a8adc94ee2d9a8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Literature Review.md",
+                "file": "Courses/Journal Entry 1 - Materiality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Review"
-            }
-          },
-          {
-            "id": "9ba4817d30d02653",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Thoughts On Archives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thoughts On Archives"
-            }
-          },
-          {
-            "id": "a5c1d34388cccc52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Thoughts On Archives.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thoughts On Archives"
-            }
-          },
-          {
-            "id": "90a975923f7c72e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Global Environmental History.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Global Environmental History"
-            }
-          },
-          {
-            "id": "e9f5e6a422536a28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Courses/Sonic Regimes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sonic Regimes"
-            }
-          },
-          {
-            "id": "f7a3592e86ee3d00",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "649749.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "649749"
+              "title": "Journal Entry 1 - Materiality"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,29 +180,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f7a3592e86ee3d00",
+  "active": "2a8adc94ee2d9a8c",
   "lastOpenFiles": [
-    "Sonic Regimes 2026.pdf",
-    "Listening, Reception, ‘structures of feeling’ of a new medium.md",
-    "649749.pdf",
-    "Courses/Sonic Regimes.md",
-    "Courses/Saguna - Krupabai Satthianadhan.md",
-    "Courses/Playing with the Past.md",
-    "2026-09-12.md",
+    "Courses/Journal Entry 1 - Materiality.md",
+    "Untitled.base",
+    "2026-10-14.md",
     "Untitled.canvas",
+    "Courses/Playing with the Past.md",
+    "Magical Realism.md",
+    "Courses/Thoughts On Archives.md",
     "Courses/Global Environmental History.md",
+    "Courses/EP Thompson - Time , Work - Discipline and Capitalism.pdf",
+    "Courses/Saguna - Krupabai Satthianadhan.md",
+    "Guidelines.md",
+    "Thesis/The Columbian Exchange and other Nuisances.md",
+    "Thesis/Literature Review.md",
+    "Thesis/Guide to Literature Review.pdf",
+    "Courses/Listening, Reception, ‘structures of feeling’ of a new medium.md",
+    "Courses/Sonic Regimes.md",
     "Courses/History of History.md",
+    "Sonic Regimes 2026.pdf",
+    "2026-09-12.md",
     "Lectures and Talks/Mother, Lover, Shakti - Hans Harder.md",
     "Lectures and Talks/Is Anti - Colonial  Social Theory Critical Theory ? Some Observation - Sujata Patel.md",
     "Lectures and Talks/Gender, Voices and the Nation.md",
     "Lectures and Talks/Darkness, Law and Policing in the Early Colonial Calcutta - Nitin Sinha.md",
     "Lectures and Talks/BBC Eastern Service to India during the Second World War.md",
     "Courses/Stratified Lives.md",
-    "Courses/Thoughts On Archives.md",
-    "Thesis/The Columbian Exchange and other Nuisances.md",
     "Thesis/Sheldon Watts , British Development Policies and Malaria in India 1897 - c.1929..md",
-    "Thesis/Literature Review.md",
-    "Thesis/Guide to Literature Review.pdf",
     "Thesis/David Arnold.md",
     "History of History",
     "Courses",
@@ -290,14 +216,9 @@
     "Thesis ideas and TBR.md",
     "Thesis",
     "Notes - Along the Archival Grain - Ann Laura Stoler.md",
-    "Literatures of Decolonisation.md",
-    "Academic Writing Course.md",
-    "Conversion Narratives/Trauma Theory.md",
-    "Conversion Narratives/Krupabai Satthianadhan.md",
     "IMG_0228.jpeg",
     "IMG_0228.png",
     "Presentation _ Transcript 1.docx",
-    "So this isn't German. Yeah, but you can choose at the beginning when… 1.pdf",
-    "Presentation _ Transcript.docx"
+    "So this isn't German. Yeah, but you can choose at the beginning when… 1.pdf"
   ]
 }

@@ -77,3 +77,16 @@ Manuscripts in Pentiment
 - Typeset speech in Pentiment 
 - Speed of different speech in Pentiment
 - Different art styles used according to the age of the character - wear tears on old monks in the scriptorium, woodcut for the children
+
+Historians and games
+- Emphasis on the personal dynamics
+- How much power is a matter of individuals?
+
+Titles in Guild 2
+- Simple ideas about a historical era are more influential than long and nuanced explanation. Can simplification draw attention to complexity?
+- Letters of en-noblemen 
+- Buying titles is a big social change, allows for social mobility
+- Titles are independent from your wealth. 
+
+
+[[Journal Entry 1 - Materiality]]

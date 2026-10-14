@@ -174,3 +174,15 @@ The Mediterranean and the Mediterranean World in the Age of Philip II (1949)
 - Long duree
 
 
+
+### LECTURE 4
+
+[[EP Thompson - Time , Work - Discipline and Capitalism.pdf]]
+
+> Three points may be proposed about task-orientation. First, there is a sense in which it is more humanly comprehensible than timed labour. The peasant or labourer appears to attend upon what is an observed necessity. Second, a community in which task-orientation is common appears to show least demarcation between "work" and "life". Social intercourse and labour are intermingled - the working-day lengthens or contracts according the task - and there is no great sense of conflict between labour "passing the time of day". Third, to men accustomed to labo timed by the clock, this attitude to labour appears to be wasteful lacking in urgency.1
+
+[[EP Thompson - Time , Work - Discipline and Capitalism.pdf#page=6&selection=375,2,584,9|EP Thompson - Time , Work - Discipline and Capitalism, page 6]]
+
+> This measurement embodies a simple relationship. Those who are employed experience a distinction between their employer's time and their "own" time. And the employer must use the time of his labour, and see it is not wasted: not the task but the value of time when reduced to money is dominant. Time is now currency: it is not passed but spent. 
+
+[[EP Thompson - Time , Work - Discipline and Capitalism.pdf#page=7&selection=592,0,712,5|EP Thompson - Time , Work - Discipline and Capitalism, page 7]]
