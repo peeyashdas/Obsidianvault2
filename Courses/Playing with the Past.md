@@ -89,4 +89,4 @@ Titles in Guild 2
 - Titles are independent from your wealth. 
 
 
-[[Journal Entry 1 - Materiality]]
+[[Journal Entries]]

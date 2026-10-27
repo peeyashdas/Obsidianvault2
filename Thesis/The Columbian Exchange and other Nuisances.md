@@ -1,6 +1,6 @@
 The idea of this paper stems from a press note published in 1938, concerning the spring mosquito nuisance in Delhi. According to this report the spring mosquito nuisance was an annual phenomenon from the month of March to April that affected the regions in and around Delhi. This press note majorly expresses its discomfort with the presence of these mosquitos that affected the urban population of Delhi as their bites were supposed to cause bodily discomfort , even if they did not carry any disease causing pathogens. 
 
-The central research question of my paper investigates how the problem of the "spring mosquito nuisance" complicates the idea of spatial segregation and sanitary control in colonial India. While colonial urban planning sought to maintain a distinction between the "clean" White spaces and the supposedly "dirty" native quarters, the problem of flies exceeded these segregated boundaries. Unlike walls or municipal regulations, mosquitos could move freely across urban spaces, carrying contamination beyond the limits of racial segregation. The sensorial dimension of the fly nuisance that is its buzzing presence, visibility, and association with contamination makes it an important subject for understanding colonial anxieties surrounding hygiene and disease.
+The central research question of my paper investigates how the problem of the "spring mosquito nuisance" complicates the idea of spatial segregation and sanitary control in colonial India. While colonial urban planning sought to maintain a distinction between the "clean" White spaces and the supposedly "dirty" native quarters, the problem of mosquito exceeded these segregated boundaries. Unlike walls or municipal regulations, mosquitos could move freely across urban spaces, carrying contamination beyond the limits of racial segregation. The sensorial dimension of the fly nuisance that is its buzzing presence, visibility, and association with contamination makes it an important subject for understanding colonial anxieties surrounding hygiene and disease.
 
 The paper also discusses the anti - malaria policies legislated by the government and their failure in containing the problem of spring mosquitos and in some instances, malaria itself. Through this endeavour the paper aims to reevaluate Alfred Crosby’s conception of ecological imperialism that focuses on the asymmetrical impact of biological exchange between the European colonisers and the native settlers. Contrarily, I wish to argue that colonial ecological imperialism was not absolute, as the colonial administration repeatedly struggled to contain contamination even within European residential spaces. The persistence of flies and disease demonstrates the limitations of colonial sanitary control and destabilises the notion that racial segregation could produce hygienically secure urban environments.
 
@@ -47,3 +47,10 @@ In both the cases the native spatial experiences  are reproduced by the presence
 
 Ecological imperialism, bio politics, sensorial Eurocentrism, colonialism,  
 
+### FEEDBACK
+
+1. Why does the times of Indian describe the spring mosquito nuisance?
+2. What are the sanitary regulations that are brought in vs the natural way of dealing with them?
+3. Sensory aspect of spring nuisance 
+4. Write like I have these and these and these questions 
+5. Racial segregation overcome by bugs
