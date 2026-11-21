@@ -19,6 +19,11 @@ However, in the aftermath of the Delhi Sore of 1858 and the continuous expansion
 
 The main subsoil drain opened at the outskirts of Delhi Gate, along the southern edge of the walled city. Its effluent was reused as sullage water, while insoluble waste was buried at the landfill. Delhi Gate was considered a convenient site for waste disposal because of its proximity to the drainage outlet, the availability of land for refuse disposal, and its distance from the Civil Lines. The colonial administration also preferred disposal sites where prevailing winds would carry unpleasant smells away from European residential settlements. Similarly, the authorities stipulated that waste dumped into the river should be discharged downstream of the Fort, rather than near the Bathing Ghat and Water Bastion.
 
+It is needless to say, that ensuring pleasant sensorial experience of the European population came at the cost of the native population, as the DMC consequently located refuse disposal grounds alongside native residential areas. The authorities assumed that the “natives were immune to refuse, even fond of offal.”
+
+By the 1920s, however, the Delhi Gate dump presented a sanitary problem due to its proximity to the newly constructed capital. The Jail Superintendent of the Delhi Jail located at the immediate south of the dump became the keenest critique od the dumping ground, raising concerns about 
+
+
 
 
 
