@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "99bdff2f628f7b61",
+        "id": "ee06aed41ad137ed",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ae1a7bd628536d",
+            "id": "02b878cbeabf54b9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Thesis/Delhi’s Belly - Micheal Mann.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Delhi’s Belly - Micheal Mann"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Thesis/Delhi’s Belly - Micheal Mann.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Thesis/Delhi’s Belly - Micheal Mann.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -155,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Thesis/Delhi’s Belly - Micheal Mann.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,8 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0ae1a7bd628536d",
+  "active": "02b878cbeabf54b9",
   "lastOpenFiles": [
+    "Thesis/David Arnold.md",
+    "Thesis/Guide to Literature Review.pdf",
+    "Thesis/Delhi’s Belly - Micheal Mann.md",
     "Thesis/Literature Review.md"
   ]
 }
