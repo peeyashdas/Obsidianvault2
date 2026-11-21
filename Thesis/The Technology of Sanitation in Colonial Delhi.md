@@ -13,6 +13,7 @@ In 1922, the Superintendent of the Delhi Jail pointed to the problem of flies , 
 
 On Sanitary Landfills 
 
+Prasad writes that when the idea of nightsoil disposal out the city drew the attention of  DMC 
 
 
 
