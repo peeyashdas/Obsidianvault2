@@ -1,0 +1,23 @@
+If we take MN Buch for his analysis then, it may be argued that the decision to shift the imperial capital of British India was more than a pitiful outcome of the movement against the Partition of Bengal in Calcutta. The seat of ancient empires, Delhi was a symbol of pride that the empire needed. Dinesh Kataria cites the Secretary of State Lord Crewe who envisioned Delhi as expression of “an unfaltering determination to maintain British rule in India” however, argues for the ”uncomfortable political atmosphere in Calcutta” as the major driving force for the decision. (Kataria, 65)
+
+Approving Shahjahanabad as the first complete city, Buch projects Lutyen’s delhi to form a continuum with it. Interestingly, if we were to consult the colonial philosophical underpinning that underlay Lutyen’s Delhi, some disagreement may arise. 
+
+Far from Buch’s romanticised imagination of Lutyen’s Delhi, Nalini Singh and Shaheen Islamuddin has written about the British colonial policies post-1857 led to the reshaping of Shahjahanabad (Old Delhi) and the creation of New Delhi, including railway rerouting, urban demolition, land acquisition under the Land Acquisition Act of 1894, and the relocation of villages, gardens, religious sites, and historical places. It presents historical geography, urban planning decisions, and the socio-cultural and environmental impacts of these changes.
+
+After the revolt of 1857, Veena Oldenburg argues that, British administration initiated a process of urban reconstruction following three imperative: [[The Technology of Sanitation in Colonial Delhi]] 
+1. Safety
+2. Sanitation
+3. Loyalty
+Echoing a similar argument Singh and Islamuddin writes that the decision to shift capital from Calcutta to Delhi, was aimed at projecting the British as the legitimate successor of the Mughal dynasty in India. 
+
+The capital that was established after 1911, was located a little further away, and established at the cost of large scale acquisition of villages, agricultural lands, sources of irrigation, forest lands, gardens, religious buildings and historical places. (528, Sinha)
+
+One of the major bone of contention regarding the refurbing the old city, was the wall that encased it. The bitter experiences of the 1857 revolt led to demands for the destruction of the wall. Additionally, concerns were raised about the circulation of air that was objectionable from a sanitatary point of view. (530, Sinha)
+
+In the official discourse , the British Municipal authority of Delhi brought out many defects in the old urban planning including the system of drainage. The crisscross arrangement of the lanes and the clustered housing was also perceived as a hindrance for the healthy growth of a city. (531, Sinha)
+
+Kataria discusses that while on one hand the imperial ambition for New Delhi was marked by “rigid social - urban hierarchies”  , on the other the ”insanitary spillover“ of the old city (Shahjahanabad) was a point of pain for urban planners and colonial administration. (65)
+
+The colonial government aimed to contain this spillover by restricting the physical limits of Delhi, however, the “spillover” demanded constant administrative attention concerning the improvement, resettlement, urban expansion , land and building regulation , and congestion. A large body of scholarly works dedicated to the urban planning in Delhi’s have highlighted the racial undertones , financial conservatism, and exercise of sovereign and disciplinary power. According to Kataria, historians have identified an increasing distinction between the New Delhi characterised by modernity and hygiene, the Old Delhi plagued by traditionalism , filth, and congestion. 
+
+Besides the old and new dichotomy,  this hierarchical segregation was also implemented within the new city. Patrick Abercrombie, the editor of Town Planning Review , hurled a sharp critique at  final report released by the Delhi Town Planning Commission objecting to the demarcation of the city into areas for ‘native clerks’, ‘Indian chiefs’ and ‘white men’. (67) In fact, as colonial officials flocked into the imperial capital, land acquisition for the establishment displaces a substantial section of the local population who crowded Old Delhi. (71) Consequently, the population of Delhi, particularly the old city multiplied between 1911 and 1931, reaching approximately 416,000.(71) The worst hit were the menial workers and the lower - ranking clerks continually moving between the two cities in search of cheaper housing (71)

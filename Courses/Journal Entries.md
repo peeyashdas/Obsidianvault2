@@ -40,6 +40,42 @@ The title of the game , Guild II , comes with the burden of upholding the guild 
 - Is Guild II governed by Roman or Germanic laws?
 - What is the power structure like, in Guild II? How historically accurate is it?
 
+For this journal entry, I will be analysising the action - choices of the playing agents related to corruption, violence and criminal activity. The action choices that I will be focusing on include - the ability to accuse someone of a crime, and the set of corrupt and violent actions that the playing agent can make. 
+
+The analysis of this component has been done using texts that are specific to certain parts of the medieval Europe , like England or France, and the analytical framework of one area might not apply to another. However, given that the maps of Guild II, though placed in different parts of Europe, does not affect the game design of the society, I am taking the liberty to use these specific analytical framework to do an overarching analysis to investigate the defensibility of the action choices in Guild II. 
+
+A major concern I have with the game is the reliance on corruption for the success of my character’s aim. I tried to take the non - threatening way to get the seat , but it was not possible. Like bribing, threatening, forcing is the way of life. The only option of influence in the council meeting are - bribe, beguile, compliment, and there are as of now , limited avenue doing good work and collecting merit. 
+
+Overall the game relies on significant number of negative attributes to govern the life of the character and the city life. 
+
+There is acquisitorial and inquisitorial form of justice system, however, it also shifts depending on whether I commit the crime in broad daylight or I am accused of a crime by another. 
+
+The action choice of accusing someone and the burden of proof - acquisitorial justice 
+
+Maintaining law and order was a crucial aspect of the society, and there was a moralising discourse prevalent in the society from fifteenth century onwards. This can be reckoned from the stricter forms of punishment that was imposed upon those who committed public crime. (Carrel, 304) (Definition of public crime) (Citation needed) In the light of this , Guild II gives too many action choices that promote corrupt or immoral behaviour. This gives an impression of a medieval society that was steeped in crime and violence, where violence in everyday life was normalised. 
+
+Carrel writes that while most fraudulent dealers were fined, the fact that town leaders could impose corporal punishment remained an ideologically important aspect of authority of civic government. This argument further corroborates the idea of society governed by civility and morality , and public good. 
+
+These historical analysis weakens the defensibility of action - choices around violence in the game. 
+
+
+Public Corporal Punishment  (the intentional infliction of physical pain or discomfort on a person’s body as a penalty for a crime, rule violation, or behaviour)
+
+What is a more sever punishment fines or pillory?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

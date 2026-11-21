@@ -90,3 +90,33 @@ Titles in Guild 2
 
 
 [[Journal Entries]]
+
+Defining culture and difference
+ - religion, language , 
+
+How can we define and discuss ‘culture’ and cultural difference in premodern societies? What forms of evidence do we have for them? 
+
+
+Summarise essay
+- You are a historical consultant helping develop an update to your case study game to expand its engagement with current scholarship . Write a proposal for an additional quest and its associated mechanics , and argue for why it should be included. 
+
+Quest - add a function , or a narrative component (diplomatic encounter in CK2) , can involve adding component 
+Associated mechanics - 
+
+Expand engagement with current scholarship
+
+Why does it matter in the game? 
+
+How to 
+- get specific , especially game components
+- Engage with history scholarship (game - specific readings)
+- Engage with scholarship on historical video games (Houghton, Wainwright)
+	- Find 4 additional readings on historical video games not from the pen-sum
+- Can use examples discussed in journal entries but - 
+	- must set in new context
+	- must bring in new material too
+
+“We can only reward what is on the page” 
+
+10th December, 11:00 am
+In any case - contact Marlene Holm

@@ -51,10 +51,3 @@ Due - 16th October
 - State what you intend to write
 	- Structure of introduction
 
-
-
-
-
-
-EXPOSE
-- 
