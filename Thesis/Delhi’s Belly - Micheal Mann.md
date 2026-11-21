@@ -24,50 +24,17 @@ While the 18th century discourse on sanitation in town was centred around the re
 
 The epidemiological discourse was expanding, with miasma theory and the contagion theory directing policy making. However, these policies were not objective decisions but rather governed by imperial philosophy social Darwinism and thus, racial superiority. Vijay Prasad in his discussion on  [[The Technology of Sanitation in Colonial Delhi]]  discusses the racist approach of the colonial governing bodies like the Delhi Municipal Corporation, in implementing sanitation infrastructure across Delhi. 
 
-Pg 3
 
-Mann argues that the history of sanitation should be part of urban development and urban environment history. However, the research in South Asian environment history has been preoccupied by colonial forest politics, desiccation theory and practice and deteriorating living condition in agrarian and forested areas. 
+Delhi’s sanitary condition before municipal intervention
 
-After the 1857 revolt , “in respect of health , in many Indian towns native and European living quarters were segregated by a cordon sanitaire.”
+The earliest report on the sanitary condition of Punjab, published in 1867, described Delhi as the cleanest city in the province. Prior to the municipal interventions, the mohallas (neighbourhoods) were responsible for the management of waste and night soil at the local level. Each mohalla had a sewage receptacle, covered or uncovered operating as collection tank, and designated sweepers were employed by the residents to clean these receptacles regularly. Thus , dry conservancy was the predominant form of waste management. 
 
-“Cantonments and Civil Lines also known as Station were to become the typical European residential area marked by spacious houses set in sprawling compounds, and surrounded by lunch greens m supplied with sufficient fresh water and sewerage moved efficiently.
+Yet, the 1867 report expressed its concern towards the dilapidated condition of the drainage system , which was reduced to a collection of cesspits scattered around the cityscape. According to the report, these cesspits posed a great hazard to the public health as they were believed to contaminated groundwater through percolation and air through evaporation. Therefore, the report advocated for covered sewers along the English model. 
 
-Contrary to this, densely populated Indian towns suffered from inadequate water supply and from inefficient or hardly existent sewerage and refuse removal systems.”
+The Shahjahani subsoil drain was the major sewage system that was built during the time of Shah Jahan. The regular supply of water provided a flushing of the refuse from the drains, however, the reducing water pressure of the Yamuna in the mid - eighteenth century, led to the desiccation of the drains virtually turning them into cesspits. (Prasad, 120) In 1840s, British engineers tried to tinker with the subsoil drainage, only for the drain water to flood the city. (Prasad 119) Consequently, by 1871, only nine new drains had been constructed and twenty existing drains had been repaired. (Mann, 12)
 
-Pg 4
+The native press complained of the lack of improvements to drainage and sewerage systems. They pointed to the unequal distribution of the municipal expenditure where minor drains were constructed at considerable expenses for the British residents, but little improvement was undertaken in the populous mohalla of the walled city. For the Civil Lines, the DMC opened a dedicated Salimgarh Channel, where no drainage from the native quarters were allowed to flow into(Prasad, 124) In Delhi, writes Mann, “the cordon sanitaire was of North Indian colonial town appendices was implemented by separating Indian and British sullage”(Mann,20)
 
-“Lack of money was one of the major reasons why town improvement failed. It has been argued recently that the fiscal burden of the growing military budget of British India until the beginning of the First World War had created some sort of ‘financial conservatism’.”
+Meanwhile, the restoration of the Roshanara Bagh by Colonel Cracroft using the Indian public funds , was deemed as the epitome of British self interest and extravagance. (Mann,12)
 
-Pg 5
-
-Apart from the lack of funds , it was also the incompetent technology, amateur engineers and ignorant planner which decisively contributed to the underdevelopment of Indian towns.
-
-“A former seat of the Mughal empire, Delhi was the only town in British Indhes where Europeans settles amongst Indians in an Indian town. This “closeness” created a paranoias among the British ruling class and led to absurd forms of racial segregation. Part of TThe colonial paranoia was to prevent the physical development of Delhi after 11858 because of the role the city had played during the mutiny”
-
-Pg 10
-
-“Early sanitation reports on Delhi provide a lucid example of how the city was turned int an unhealthy place and how, in distinction to the Civil Lines it was constructed as Europe’s Oriental other”
-
-Pg 11. 
-
-“When the first report on the sanitary condition of the Punjab was published in 1867, Delhi was described as the cleanest city of the province, even in the bylanes and back alleys. The removal of refuse and excreta was organized by the city wards (mohalla). In every mohalla there was a masonry receptacle with or without a lid. One or two sweepers were employed by the residents of the mohalla for regularly cleaning the receptacles and were paid in kind or cash by them.”
-
-Pg 12 
-
-“But with respect to drainage the same report stated that ‘superficially the city presents an appearance of cleanliness not often seen in the cities of the Punjab, but it is undermined with cess pits whose foul contents poison the water by percolation and the air by evaporation and make the place pestilential.
-
-Echoing the European sanitation discourse, the report concluded that sufficient water supply would substantially improve public health in Delhi. With respect to the sewerage system the report recommended that covered sewers constructed on the English model would be infinitely preferable to any Indian construction and also be less expensive.
-
-Arguments regarding the dangers of disease deriving from polluted rivers, which were part of the European sanitary discourse, were denied as having any applicability to India from the very beginning. Furthermore, the argument certainly made cheap solutions for sewerage systems in British India possible. Emptying sewerage into the Jamuna saved money. For this reason the DMC was able to spend little money on the maintenance of the existing system. By 1871, just nine new drains had been built and twenty repaired.”
-
-Pg 12 - 13
-
-“The rais, the nobility of Delhi, complained in the local newspapers about the lack of improvement of the drains and sewerage system. It was also pointed out that the DMC was building minor drains at huge expense in the British quarters of Delhi and in the Civil Lines area but hardly anything was being done for the densely populated mohallas of the walled city. 
-The restoration of Roshanara Gardens in West Delhi by Colonel Cracroft is evidence of British extravagance and self-interest. 
-
-The gardens had fallen into neglect and parts of it had turned into swamps since the middle of the century. However, instead of opening up and cleaning old drains, a network of spacious roads with side drains, culverts and bridges was constructed and the enclosure wall restored at great cost. Defending his project, Colonel Cracroft argued that the roads had improved ventilation and, moreover, the restoration scheme had contributed to the environmental improvement of neighbouring Sabzimandi because dangerous exhalations had disappeared since then.”
-
-Pg 13
-
-“An amateur English landscape gardener had spent Indian public money on a British pleasure ground.”
-
+Sanitary Landfill in  [[The Technology of Sanitation in Colonial Delhi]]

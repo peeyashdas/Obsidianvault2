@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d812c9b52c5feb7f",
+  "active": "b4e2b9a534d3511f",
   "lastOpenFiles": [
-    "Thesis/Delhi’s Belly - Micheal Mann.md",
     "Thesis/The Technology of Sanitation in Colonial Delhi.md",
+    "Thesis/Delhi’s Belly - Micheal Mann.md",
     "Thesis/The Columbian Exchange and other Nuisances.md",
     "Thesis/Literature Review.md",
     "Thesis/Planning of New Delhi.md",
