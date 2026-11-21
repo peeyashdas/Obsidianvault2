@@ -13,7 +13,9 @@ In 1922, the Superintendent of the Delhi Jail pointed to the problem of flies , 
 
 On Sanitary Landfills 
 
-Prasad writes that when the idea of nightsoil disposal out the city drew the attention of  DMC 
+Prasad writes that when the idea of nightsoil disposal out the city drew the attention of  DMC , it followed the sweepers to Malkaganj , where they disposed the waste by pitting, which came to be known as sanitary landfilling in the 1920s. The process involved the layering of garbage with ashes and street sweeping. The heap was then packed in place by applying pressure and covered with leaves to prevent the spreading of the refuse. This was a labour intensive process that required large tracts of surplus land. Before the expansion of Delhi, sites including Malkaganj (northwest), Delhi Gate (south), Motia Khan and Original Road (west) around the walled city was used for this purpose.
+
+However, in the aftermath of the Delhi Sore of 1858 and the continuous expansion of the colonial settlement, the British reconsidered the locations of these sanitary landfills.
 
 
 
