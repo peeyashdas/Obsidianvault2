@@ -21,7 +21,11 @@ The main subsoil drain opened at the outskirts of Delhi Gate, along the southern
 
 It is needless to say, that ensuring pleasant sensorial experience of the European population came at the cost of the native population, as the DMC consequently located refuse disposal grounds alongside native residential areas. The authorities assumed that the “natives were immune to refuse, even fond of offal.”
 
-By the 1920s, however, the Delhi Gate dump presented a sanitary problem due to its proximity to the newly constructed capital. The Jail Superintendent of the Delhi Jail located at the immediate south of the dump became the keenest critique od the dumping ground, raising concerns about 
+By the 1920s, however, the Delhi Gate dump presented a sanitary problem due to its proximity to the newly constructed capital. The Jail Superintendent of the Delhi Jail located at the immediate south of the dump became the keenest critique of the dumping ground, raising concerns about proliferation of flies and miasma. 
+
+Although germ theory had gained prominence, colonial officials continued to associate unpleasant smells with the potential spread of disease. Refuse dumps were considered hazardous because of the accumulation of organic matter, which decomposed and putrefied, particularly during the rainy season. Flies, in turn, were regarded as indicators of insanitary conditions and potential disease outbreaks. During outbreaks of flies, official attention repeatedly turned to the nightsoil and refuse disposal grounds at Delhi Gate and Motia Khan.
+
+Similar, problems were posed by landfill in the area around Original Road, constituting two - thirds of refuse 
 
 
 
