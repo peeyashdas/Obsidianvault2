@@ -24,7 +24,7 @@ In “Aroma: The cultural Smell of History” authors Constance classes, David H
 
 I would like to argue that , as smell cannot be contained in physical space it becomes important to interpret it and provide it with either a positive or negative value. This becomes a crucial what to maintain power structure by establishing a discourse on smell, so that interaction between different entities are limited even when there is a sense of shared olfactory whole. This can explain how the Whites continued to have Blacks in their domestic space as servants, while ensuring a metaphysical wall that kept them apart due to the repelling qualities of their odour. 
 
-
+Sensory History by Mark M Smith, tries to explore and comprehend how 17th and 18th century , beginning 
 
 
 
