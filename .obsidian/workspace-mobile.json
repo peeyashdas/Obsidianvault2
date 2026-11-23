@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Smell.md",
+                "file": "Courses/Thoughts On Archives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Smell"
+              "title": "Thoughts On Archives"
             }
           }
         ],
@@ -225,8 +225,8 @@
   },
   "active": "677e6b29df4a67cd",
   "lastOpenFiles": [
-    "Thesis/The Technology of Sanitation in Colonial Delhi.md",
     "Smell.md",
+    "Thesis/The Technology of Sanitation in Colonial Delhi.md",
     "Thesis/Delhi’s Belly - Micheal Mann.md",
     "/Lectures and Talks",
     "Thesis/The Columbian Exchange and other Nuisances.md",
