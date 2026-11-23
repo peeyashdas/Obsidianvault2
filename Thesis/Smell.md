@@ -10,4 +10,6 @@ If the historical works on the sense of smell are accounted for, then smell or o
 
 Synnott writes that “physical odour and the metaphysical reality are symbolically reciprocal”, therefore sense are often evaluated as positive or negative in the context in which they are remembered. Consequently , the meanings of odours are extrinsic and individually or socially constructed. Synnott thus rhetorically asks , if the nose is born or created? 
 
-The social process of meaning making associated with the senses, like smell, transform them into a social attribute with the power to make moral statements about an individual or a group. According to Synnott, the odour , therefore “contributes not only to the moral construction of the self , but also to the moral construction of the gr” 
+The social process of meaning making associated with the senses, like smell, transform them into a social attribute with the power to make moral statements about an individual or a group. One of the earliest observations in this regard was made by George Orwell , who pointed that the “real secret” of class distinction would be summarised in four words, “The lower classes smell”. (Synnott,194) (Classen Howes and Synnott , 8) He persisted that while race, religion , temperament can be overcome, the “physical repulsion cannot” attributing to class distinction. (Classen Howes and Synnott , 8) 
+
+Similar distinctions along the racial lines, have been expressed in North America with regards to the olfactory presence of Blacks. Thomas Jefferson, was recorded s
