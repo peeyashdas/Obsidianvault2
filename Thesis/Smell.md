@@ -18,5 +18,9 @@ Scholar Gunner Myrdal talks about the tangible, social implications of olfactory
 
 Thus, Synnott rightly argues that odour, whether perceived or imagined, can reinforce social hierarchies based on class and race. It can also become a means of associating particular populations with negative moral characteristics. (Synnott, 197)
 
+In “Aroma: The cultural Smell of History” authors Constance classes, David Howes and Anthony Synnott raise importance questions about the destabilising nature of heightened olfactory consciousness in the social order of the West. They wrote that the diffusive nature of odours subvert the modern, linear worldview (with its emphasis on privacy, discrete division and superficial interaction) as it escapes and crosses boundaries blending different entities into an olfactory whole.  (6-7)
+
+
+
 
 
