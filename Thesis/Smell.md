@@ -16,3 +16,7 @@ Similar distinctions along the racial lines, have been expressed in North Americ
 
 Scholar Gunner Myrdal talks about the tangible, social implications of olfactory beliefs , when they are employed for moral labelling, Drawing on the interaction between Blacks and Whites in North America, he observed : “The belied in a particular ‘hircine odour’ […] touches a personal sphere and is useful to justify the denial of social intercourse and the use of public convenience. (Synnott, 196) 
 
+Thus, Synnott rightly argues that odour, whether perceived or imagined, can reinforce social hierarchies based on class and race. It can also become a means of associating particular populations with negative moral characteristics. (Synnott, 197)
+
+
+
