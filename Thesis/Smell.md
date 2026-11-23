@@ -16,9 +16,14 @@ Similar distinctions along the racial lines, have been expressed in North Americ
 
 Scholar Gunner Myrdal talks about the tangible, social implications of olfactory beliefs , when they are employed for moral labelling, Drawing on the interaction between Blacks and Whites in North America, he observed : “The belied in a particular ‘hircine odour’ […] touches a personal sphere and is useful to justify the denial of social intercourse and the use of public convenience. (Synnott, 196) 
 
+Social psychologist John Dollard noted in ‘Castle and Class in Southern Town’ that Whites often claimed that the Blacks had a “disagreeable, acrid ” smell which made close association impassable. This smell was ot due to living conditions but intrinsic to Blacks, “even among the cleanest of them”. Interestingly, this odour however did not prevent Whites from have the Blacks as servants. (Classen Howes and Synnott , 167) 
+
 Thus, Synnott rightly argues that odour, whether perceived or imagined, can reinforce social hierarchies based on class and race. It can also become a means of associating particular populations with negative moral characteristics. (Synnott, 197)
 
-In “Aroma: The cultural Smell of History” authors Constance classes, David Howes and Anthony Synnott raise importance questions about the destabilising nature of heightened olfactory consciousness in the social order of the West. They wrote that the diffusive nature of odours subvert the modern, linear worldview (with its emphasis on privacy, discrete division and superficial interaction) as it escapes and crosses boundaries blending different entities into an olfactory whole.  (6-7)
+In “Aroma: The cultural Smell of History” authors Constance classes, David Howes and Anthony Synnott raise importance questions about the destabilising nature of heightened olfactory consciousness in the social order of the West. They wrote that the diffusive nature of odours subvert the modern, linear worldview (with its emphasis on privacy, discrete division and superficial interaction) as it escapes and crosses boundaries amalgamating different entities into an olfactory whole.  (Classen Howes and Synnott , 6-7)
+
+I would like to argue that , as smell cannot be contained in physical space it becomes important to interpret it and provide it with either a positive or negative value. This becomes a crucial what to maintain power structure by establishing a discourse on smell, so that interaction between different entities are limited even when there is a sense of shared olfactory whole. This can explain how the Whites continued to have Blacks in their domestic space as servants, while ensuring a metaphysical wall that kept them apart due to the repelling qualities of their odour. 
+
 
 
 
