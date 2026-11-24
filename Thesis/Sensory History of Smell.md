@@ -1,4 +1,6 @@
 The Body Social - Anthony Synnott
+Aroma : The Cultural History of Smell - Constance Classes, David Howes, Anthony Synnott
+Sensory History - Mark Smith
 
 Anthony Synnott distinguishes between three kinds of smell - natural , manufactured and symbolic. Though these types are conceptually separate, they may simutaneously occur in a given social situation.
 
