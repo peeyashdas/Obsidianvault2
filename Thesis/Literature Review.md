@@ -4,6 +4,14 @@ Check [[Guide to Literature Review.pdf]
 
 [[David Arnold]]
 
+[[Planning of New Delhi]]
+
+[[Sensory History of Smell]]
+
+[[Delhi’s Belly - Micheal Mann]]
+
+[[The Technology of Sanitation in Colonial Delhi]]
+
 Citations
 
 Watts, S. “BRITISH DEVELOPMENT POLICIES AND MALARIA IN INDIA 1897-c. 1929.” _Past & Present_ 165, no. 1 (November 1, 1999): 141–81. https://doi.org/10.1093/past/165.1.141.
