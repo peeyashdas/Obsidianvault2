@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thesis/Colloquium.md",
+                "file": "Courses/Mapping the Schools of History.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colloquium"
+              "title": "Mapping the Schools of History"
             }
           }
         ]
@@ -202,9 +202,10 @@
   },
   "active": "02b878cbeabf54b9",
   "lastOpenFiles": [
+    "Thesis/Colloquium.md",
+    "Courses/Mapping the Schools of History.md",
     "Thesis/Guidelines - Term Paper GEH.md",
     "Thesis/Sensory History of Smell.md",
-    "Thesis/Colloquium.md",
     "Thesis/Literature Review.md",
     "Thesis/Delhi’s Belly - Micheal Mann.md",
     "Thesis/Planning of New Delhi.md",
